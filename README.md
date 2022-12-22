@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @emiliev
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning GitHub Actions
+- 🌱 I’m currently learning Flutter 
+- 👨‍💻 Working as a Staff Engineer @ Tide
 - 📫 How to reach me http://linkedin.com/in/eiliev
 
 <!---
