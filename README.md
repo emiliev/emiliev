@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @emiliev
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter 
-- 👨‍💻 Working as a Staff Engineer @ Tide
-- 📫 How to reach me http://linkedin.com/in/eiliev
+- 👨‍💻 Working as a Senior Staff Engineer @ Tide
+- 📫 You can reach me at http://linkedin.com/in/eiliev
 
 <!---
 emiliev/emiliev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
